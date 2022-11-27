@@ -1,1 +1,1 @@
-# todos-list
+Simple todos-list using Reactjs
